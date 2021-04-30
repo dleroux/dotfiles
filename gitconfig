@@ -1,9 +1,6 @@
 [user]
         name = Daniel Leroux
         email = daniel.leroux@shopify.com
-[credential]
-	helper = 
-	helper = store --file /opt/dev/var/private/git_credential_store
 [core]
 	commitGraph = true
 [diff]
